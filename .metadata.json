@@ -1,0 +1,13 @@
+[
+  {
+    "package": "flattabler",
+    "oncran": true
+  },
+  {
+    "package": "geodimension",
+    "oncran": true
+  },
+  {
+    "package": "starschemar"
+  }
+]
