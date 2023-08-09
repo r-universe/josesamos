@@ -8,3 +8,6 @@
 [submodule "geodimension"]
 	path = geodimension
 	url = https://github.com/josesamos/geodimension
+[submodule "rolap"]
+	path = rolap
+	url = https://github.com/josesamos/rolap
