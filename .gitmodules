@@ -11,3 +11,6 @@
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/josesamos/rolap
+[submodule "starschemar"]
+	path = starschemar
+	url = https://github.com/josesamos/starschemar
