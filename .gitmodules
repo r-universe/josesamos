@@ -11,6 +11,9 @@
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/josesamos/rolap
+[submodule "satres"]
+	path = satres
+	url = https://github.com/josesamos/satres
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/josesamos/starschemar
