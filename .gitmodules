@@ -8,6 +8,9 @@
 [submodule "geodimension"]
 	path = geodimension
 	url = https://github.com/josesamos/geodimension
+[submodule "geogenr"]
+	path = geogenr
+	url = https://github.com/josesamos/geogenr
 [submodule "geomultistar"]
 	path = geomultistar
 	url = https://github.com/josesamos/geomultistar
