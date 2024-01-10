@@ -23,3 +23,6 @@
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/josesamos/starschemar
+[submodule "when"]
+	path = when
+	url = https://github.com/josesamos/when
