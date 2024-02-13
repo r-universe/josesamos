@@ -14,6 +14,9 @@
 [submodule "geomultistar"]
 	path = geomultistar
 	url = https://github.com/josesamos/geomultistar
+[submodule "moodef"]
+	path = moodef
+	url = https://github.com/josesamos/moodef
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/josesamos/rolap
