@@ -17,6 +17,9 @@
 [submodule "moodef"]
 	path = moodef
 	url = https://github.com/josesamos/moodef
+[submodule "rexer"]
+	path = rexer
+	url = https://github.com/josesamos/rexer
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/josesamos/rolap
