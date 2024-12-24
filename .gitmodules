@@ -29,6 +29,9 @@
 [submodule "satres"]
 	path = satres
 	url = https://github.com/josesamos/satres
+[submodule "sigugr"]
+	path = sigugr
+	url = https://github.com/josesamos/sigugr
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/josesamos/starschemar
