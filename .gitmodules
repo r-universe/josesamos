@@ -35,6 +35,9 @@
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/josesamos/starschemar
+[submodule "tab2xml"]
+	path = tab2xml
+	url = https://github.com/josesamos/tab2xml
 [submodule "when"]
 	path = when
 	url = https://github.com/josesamos/when
